@@ -1,0 +1,470 @@
+{
+  "0": {
+    "check": "./assets/images/common/check.svg",
+    "arrow_right": "./assets/images/common/arrow_right.svg",
+    "arrow_bottom": "./assets/images/common/arrow_bottom.svg",
+    "logo_1": "./assets/images/common/logo_1.svg",
+    "arrows": "./assets/images/common/arrows.svg",
+    "lighting": "./assets/images/common/lighting.svg",
+    "lemniscate": "./assets/images/common/lemniscate.svg",
+    "lemniscate_gif": "./assets/images/common/lemniscate.gif"
+  },
+  "1": {
+    "bg": {
+      "d_b_c": "./assets/images/sections/1/d_b/bg.jpg",
+      "d_s_c": "./assets/images/sections/1/d_s/bg.jpg",
+      "d_b_w": "./assets/images/sections/1/d_b/bg.webp",
+      "d_s_w": "./assets/images/sections/1/d_s/bg.webp",
+      "m_c": "./assets/images/sections/1/m/bg.jpg",
+      "m_w": "./assets/images/sections/1/m/bg.webp"
+    },
+    "item_1": {
+      "d_b_c": "./assets/images/sections/1/d_b/item_1.png",
+      "d_s_c": "./assets/images/sections/1/d_s/item_1.png",
+      "d_b_w": "./assets/images/sections/1/d_b/item_1.webp",
+      "d_s_w": "./assets/images/sections/1/d_s/item_1.webp",
+      "m_c": "./assets/images/sections/1/m/item_1.png",
+      "m_w": "./assets/images/sections/1/m/item_1.webp"
+    },
+    "item_2": {
+      "d_b_c": "./assets/images/sections/1/d_b/item_2.png",
+      "d_s_c": "./assets/images/sections/1/d_s/item_2.png",
+      "d_b_w": "./assets/images/sections/1/d_b/item_2.webp",
+      "d_s_w": "./assets/images/sections/1/d_s/item_2.webp",
+      "m_c": "./assets/images/sections/1/m/item_2.png",
+      "m_w": "./assets/images/sections/1/m/item_2.webp"
+    },
+    "item_3": {
+      "d_b_c": "./assets/images/sections/1/d_b/item_3.png",
+      "d_s_c": "./assets/images/sections/1/d_s/item_3.png",
+      "d_b_w": "./assets/images/sections/1/d_b/item_3.webp",
+      "d_s_w": "./assets/images/sections/1/d_s/item_3.webp",
+      "m_c": "./assets/images/sections/1/m/item_3.png",
+      "m_w": "./assets/images/sections/1/m/item_3.webp"
+    }
+  },
+  "2": {
+    "bg": {
+      "d_b_c": "./assets/images/sections/2/d_b/bg.png",
+      "d_s_c": "./assets/images/sections/2/d_s/bg.png",
+      "d_b_w": "./assets/images/sections/2/d_b/bg.webp",
+      "d_s_w": "./assets/images/sections/2/d_s/bg.webp",
+      "m_c": "./assets/images/sections/2/m/bg.png",
+      "m_w": "./assets/images/sections/2/m/bg.webp"
+    },
+    "item_1": {
+      "d_b_c": "./assets/images/sections/2/d_b/item_1.png",
+      "d_s_c": "./assets/images/sections/2/d_s/item_1.png",
+      "d_b_w": "./assets/images/sections/2/d_b/item_1.webp",
+      "d_s_w": "./assets/images/sections/2/d_s/item_1.webp",
+      "m_c": "./assets/images/sections/2/m/item_1.png",
+      "m_w": "./assets/images/sections/2/m/item_1.webp"
+    },
+    "item_2": {
+      "d_b_c": "./assets/images/sections/2/d_b/item_2.png",
+      "d_s_c": "./assets/images/sections/2/d_s/item_2.png",
+      "d_b_w": "./assets/images/sections/2/d_b/item_2.webp",
+      "d_s_w": "./assets/images/sections/2/d_s/item_2.webp",
+      "m_c": "./assets/images/sections/2/m/item_2.png",
+      "m_w": "./assets/images/sections/2/m/item_2.webp"
+    },
+    "item_3": {
+      "d_b_c": "./assets/images/sections/2/d_b/item_3.png",
+      "d_s_c": "./assets/images/sections/2/d_s/item_3.png",
+      "d_b_w": "./assets/images/sections/2/d_b/item_3.webp",
+      "d_s_w": "./assets/images/sections/2/d_s/item_3.webp",
+      "m_c": "./assets/images/sections/2/m/item_3.png",
+      "m_w": "./assets/images/sections/2/m/item_3.webp"
+    },
+    "item_4": {
+      "d_b_c": "./assets/images/sections/2/d_b/item_4.png",
+      "d_s_c": "./assets/images/sections/2/d_s/item_4.png",
+      "d_b_w": "./assets/images/sections/2/d_b/item_4.webp",
+      "d_s_w": "./assets/images/sections/2/d_s/item_4.webp",
+      "m_c": "./assets/images/sections/2/m/item_4.png",
+      "m_w": "./assets/images/sections/2/m/item_4.webp"
+    },
+    "item_5": {
+      "d_b_c": "./assets/images/sections/2/d_b/item_5.png",
+      "d_s_c": "./assets/images/sections/2/d_s/item_5.png",
+      "d_b_w": "./assets/images/sections/2/d_b/item_5.webp",
+      "d_s_w": "./assets/images/sections/2/d_s/item_5.webp",
+      "m_c": "./assets/images/sections/2/m/item_5.png",
+      "m_w": "./assets/images/sections/2/m/item_5.webp",
+      "t_c": "./assets/images/sections/2/t/item_5.png",
+      "t_w": "./assets/images/sections/2/t/item_5.webp"
+    }
+  },
+  "3": {
+    "bg": {
+      "d_b_c": "./assets/images/sections/3/d_b/bg-2.jpg",
+      "d_s_c": "./assets/images/sections/3/d_b/bg-2.jpg",
+      "d_b_w": "./assets/images/sections/3/d_b/bg-2.webp",
+      "d_s_w": "./assets/images/sections/3/d_b/bg-2.webp",
+      "m_c": "./assets/images/sections/3/m/bg-2.jpg",
+      "m_w": "./assets/images/sections/3/m/bg-2.webp",
+      "t_c": "./assets/images/sections/3/d_s/bg-2.png",
+      "t_w": "./assets/images/sections/3/d_s/bg-2.webp"
+    },
+    "badge": {
+      "d_b_c": "./assets/images/sections/3/d_b/badge.png",
+      "d_s_c": "./assets/images/sections/3/d_s/badge.png",
+      "d_b_w": "./assets/images/sections/3/d_b/badge.webp",
+      "d_s_w": "./assets/images/sections/3/d_s/badge.webp",
+      "m_c": "./assets/images/sections/3/m/badge.png",
+      "m_w": "./assets/images/sections/3/m/badge.webp"
+    }
+  },
+  "4": {
+    "bg": {
+      "d_b_c": "./assets/images/sections/4/d_b/bg.jpg",
+      "d_s_c": "./assets/images/sections/4/d_s/bg.jpg",
+      "d_b_w": "./assets/images/sections/4/d_b/bg.webp",
+      "d_s_w": "./assets/images/sections/4/d_s/bg.webp",
+      "m_c": "./assets/images/sections/4/m/bg.png",
+      "m_w": "./assets/images/sections/4/m/bg.webp"
+    }
+  },
+  "5": {
+    "bg": {
+      "d_b_c": "./assets/images/sections/5/d_c/bg.png",
+      "d_s_c": "./assets/images/sections/5/d_c/bg.png",
+      "d_b_w": "./assets/images/sections/5/d_c/bg.webp",
+      "d_s_w": "./assets/images/sections/5/d_c/bg.webp",
+      "m_c": "./assets/images/sections/5/m/bg.jpg",
+      "m_w": "./assets/images/sections/5/m/bg.webp"
+    },
+    "item_3_bg": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_3_bg.jpg",
+      "d_s_c": "./assets/images/sections/5/d_s/item_3_bg.jpg",
+      "d_b_w": "./assets/images/sections/5/d_b/item_3_bg.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_3_bg.webp",
+      "t_c": "./assets/images/sections/5/t/item_3_bg.jpg",
+      "t_w": "./assets/images/sections/5/t/item_3_bg.webp",
+      "m_c": "./assets/images/sections/5/m/item_3_bg.jpg",
+      "m_w": "./assets/images/sections/5/m/item_3_bg.webp"
+    },
+    "item_7_bg": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_7_bg.jpg",
+      "d_s_c": "./assets/images/sections/5/d_s/item_7_bg.jpg",
+      "d_b_w": "./assets/images/sections/5/d_b/item_7_bg.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_7_bg.webp",
+      "t_c": "./assets/images/sections/5/t/item_7_bg.jpg",
+      "t_w": "./assets/images/sections/5/t/item_7_bg.webp",
+      "m_c": "./assets/images/sections/5/m/item_7_bg.jpg",
+      "m_w": "./assets/images/sections/5/m/item_7_bg.webp"
+    },
+    "item_5806_bg": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_5806_bg.jpg",
+      "d_s_c": "./assets/images/sections/5/d_s/item_5806_bg.jpg",
+      "d_b_w": "./assets/images/sections/5/d_b/item_5806_bg.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_5806_bg.webp",
+      "t_c": "./assets/images/sections/5/t/item_5806_bg.jpg",
+      "t_w": "./assets/images/sections/5/t/item_5806_bg.webp",
+      "m_c": "./assets/images/sections/5/m/item_5806_bg.jpg",
+      "m_w": "./assets/images/sections/5/m/item_5806_bg.webp"
+    },
+    "item_serum_bg": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_serum_bg.jpg",
+      "d_s_c": "./assets/images/sections/5/d_s/item_serum_bg.jpg",
+      "d_b_w": "./assets/images/sections/5/d_b/item_serum_bg.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_serum_bg.webp",
+      "t_c": "./assets/images/sections/5/t/item_serum_bg.jpg",
+      "t_w": "./assets/images/sections/5/t/item_serum_bg.webp",
+      "m_c": "./assets/images/sections/5/m/item_serum_bg.jpg",
+      "m_w": "./assets/images/sections/5/m/item_serum_bg.webp"
+    },
+    "item_1": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_1.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_1.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_1.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_1.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_2": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_0875.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_0875.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_0875.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_0875.webp",
+      "m_c": "./assets/images/sections/5/m/item_0875.png",
+      "m_w": "./assets/images/sections/5/m/item_0875.webp"
+    },
+    "item_3": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_3.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_3.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_3.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_3.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_4": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_4.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_4.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_4.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_4.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_5": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_5.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_5.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_5.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_5.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_6": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_6.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_6.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_6.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_6.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_7": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_7.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_7.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_7.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_7.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_8": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_8.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_8.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_8.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_8.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_9": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_9.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_9.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_9.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_9.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_10": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_10.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_10.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_10.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_10.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_serum": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_serum.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_serum.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_serum.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_serum.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_serum_2": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_serum_2.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_serum_2.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_serum_2.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_serum_2.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "item_5806": {
+      "d_b_c": "./assets/images/sections/5/d_b/item_2.png",
+      "d_s_c": "./assets/images/sections/5/d_s/item_2.png",
+      "d_b_w": "./assets/images/sections/5/d_b/item_2.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/item_2.webp",
+      "m_c": "",
+      "m_w": ""
+    },
+    "card_0_bg": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_0_bg.jpg",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_0_bg.jpg",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_0_bg.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_0_bg.webp",
+      "m_c": "./assets/images/sections/5/m/bg.png",
+      "m_w": "./assets/images/sections/5/m/bg.webp"
+    },
+    "card_1_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_1_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_1_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_1_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_1_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_1.png",
+      "m_w": "./assets/images/sections/5/m/item_1.webp"
+    },
+    "card_2_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_2_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_2_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_2_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_2_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_2.png",
+      "m_w": "./assets/images/sections/5/m/item_2.webp"
+    },
+    "card_3_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_3_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_3_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_3_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_3_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_3.png",
+      "m_w": "./assets/images/sections/5/m/item_3.webp"
+    },
+    "card_4_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_4_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_4_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_4_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_4_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_4.png",
+      "m_w": "./assets/images/sections/5/m/item_4.webp"
+    },
+    "card_5_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_5_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_5_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_5_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_5_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_5.png",
+      "m_w": "./assets/images/sections/5/m/item_5.webp"
+    },
+    "card_6_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_6_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_6_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_6_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_6_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_6.png",
+      "m_w": "./assets/images/sections/5/m/item_6.webp"
+    },
+    "card_7_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_7_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_7_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_7_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_7_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_7.png",
+      "m_w": "./assets/images/sections/5/m/item_7.webp"
+    },
+    "card_8_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_8_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_8_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_8_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_8_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_8.png",
+      "m_w": "./assets/images/sections/5/m/item_8.webp"
+    },
+    "card_9_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_9_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_9_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_9_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_9_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_9.png",
+      "m_w": "./assets/images/sections/5/m/item_9.webp"
+    },
+    "card_serum_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_serum_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_serum_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_serum_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_serum_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_serum.png?v=2",
+      "m_w": "./assets/images/sections/5/m/item_serum.webp?v=2"
+    },
+    "card_serum_product_2": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_serum_product_2.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_serum_product_2.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_serum_product_2.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_serum_product_2.webp",
+      "m_c": "./assets/images/sections/5/m/item_serum_2.png",
+      "m_w": "./assets/images/sections/5/m/item_serum_2.webp"
+    },
+    "card_5806_product": {
+      "d_b_c": "./assets/images/sections/5/d_s/cards/card_5806_product.png",
+      "d_s_c": "./assets/images/sections/5/d_s/cards/card_5806_product.png",
+      "d_b_w": "./assets/images/sections/5/d_s/cards/card_5806_product.webp",
+      "d_s_w": "./assets/images/sections/5/d_s/cards/card_5806_product.webp",
+      "m_c": "./assets/images/sections/5/m/item_5806.png",
+      "m_w": "./assets/images/sections/5/m/item_5806.webp"
+    }
+  },
+  "6": {
+    "bg": {
+      "d_b_c": "./assets/images/sections/6/d_b/bg.png",
+      "d_s_c": "./assets/images/sections/6/d_s/bg.png",
+      "d_b_w": "./assets/images/sections/6/d_b/bg.webp",
+      "d_s_w": "./assets/images/sections/6/d_s/bg.webp",
+      "m_c": "./assets/images/sections/6/m/bg.png",
+      "m_w": "./assets/images/sections/6/m/bg.webp"
+    },
+    "item_1": {
+      "d_b_c": "./assets/images/sections/6/d_b/item_1.png",
+      "d_s_c": "./assets/images/sections/6/d_s/item_1.png",
+      "d_b_w": "./assets/images/sections/6/d_b/item_1.webp",
+      "d_s_w": "./assets/images/sections/6/d_s/item_1.webp",
+      "m_c": "./assets/images/sections/6/m/item_1.png",
+      "m_w": "./assets/images/sections/6/m/item_1.webp"
+    },
+    "item_2": {
+      "d_b_c": "./assets/images/sections/6/d_b/item_2.png",
+      "d_s_c": "./assets/images/sections/6/d_s/item_2.png",
+      "d_b_w": "./assets/images/sections/6/d_b/item_2.webp",
+      "d_s_w": "./assets/images/sections/6/d_s/item_2.webp",
+      "m_c": "./assets/images/sections/6/m/item_2.png",
+      "m_w": "./assets/images/sections/6/m/item_2.webp"
+    },
+    "item_3": {
+      "d_b_c": "./assets/images/sections/6/d_b/item_3.png",
+      "d_s_c": "./assets/images/sections/6/d_s/item_3.png",
+      "d_b_w": "./assets/images/sections/6/d_b/item_3.webp",
+      "d_s_w": "./assets/images/sections/6/d_s/item_3.webp",
+      "m_c": "./assets/images/sections/6/m/item_3.png",
+      "m_w": "./assets/images/sections/6/m/item_3.webp"
+    },
+    "item_4": {
+      "d_b_c": "./assets/images/sections/6/d_b/item_4.png",
+      "d_s_c": "./assets/images/sections/6/d_s/item_4.png",
+      "d_b_w": "./assets/images/sections/6/d_b/item_4.webp",
+      "d_s_w": "./assets/images/sections/6/d_s/item_4.webp",
+      "m_c": "./assets/images/sections/6/m/item_4.png",
+      "m_w": "./assets/images/sections/6/m/item_4.webp"
+    },
+    "item_5": {
+      "d_b_c": "./assets/images/sections/6/d_b/item_5.png",
+      "d_s_c": "./assets/images/sections/6/d_s/item_5.png",
+      "d_b_w": "./assets/images/sections/6/d_b/item_5.webp",
+      "d_s_w": "./assets/images/sections/6/d_s/item_5.webp",
+      "m_c": "./assets/images/sections/6/m/item_5.png",
+      "m_w": "./assets/images/sections/6/m/item_5.webp"
+    },
+    "item_6": {
+      "d_b_c": "./assets/images/sections/6/d_b/item_6.png",
+      "d_s_c": "./assets/images/sections/6/d_s/item_6.png",
+      "d_b_w": "./assets/images/sections/6/d_b/item_6.webp",
+      "d_s_w": "./assets/images/sections/6/d_s/item_6.webp",
+      "m_c": "./assets/images/sections/6/m/item_6.png",
+      "m_w": "./assets/images/sections/6/m/item_6.webp"
+    },
+    "item_7": {
+      "d_b_c": "./assets/images/sections/6/d_b/item_7.png",
+      "d_s_c": "./assets/images/sections/6/d_s/item_7.png",
+      "d_b_w": "./assets/images/sections/6/d_b/item_7.webp",
+      "d_s_w": "./assets/images/sections/6/d_s/item_7.webp",
+      "m_c": "./assets/images/sections/6/m/item_7.png",
+      "m_w": "./assets/images/sections/6/m/item_7.webp"
+    },
+    "item_8": {
+      "d_b_c": "./assets/images/sections/6/d_b/item_8.png",
+      "d_s_c": "./assets/images/sections/6/d_s/item_8.png",
+      "d_b_w": "./assets/images/sections/6/d_b/item_8.webp",
+      "d_s_w": "./assets/images/sections/6/d_s/item_8.webp",
+      "m_c": "./assets/images/sections/6/m/item_8.png",
+      "m_w": "./assets/images/sections/6/m/item_8.webp"
+    }
+  },
+  "7": {
+    "bg": {
+      "d_b_c": "./assets/images/sections/7/d_b/bg.jpg",
+      "d_s_c": "./assets/images/sections/7/d_s/bg.jpg",
+      "d_b_w": "./assets/images/sections/7/d_b/bg.webp",
+      "d_s_w": "./assets/images/sections/7/d_s/bg.webp",
+      "m_c": "./assets/images/sections/7/m/bg.jpg",
+      "m_w": "./assets/images/sections/7/m/bg.webp"
+    }
+  }
+}
